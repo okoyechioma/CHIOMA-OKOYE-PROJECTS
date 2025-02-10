@@ -10,7 +10,7 @@ To provide a detailed analysis of **subscriber behaviors** based on **movie genr
 
 ## 📊 Data Used  
 📂 **Dataset:** [Netflix Data (CSV)](https://raw.githubusercontent.com/okoyechioma/CHIOMA-OKOYE-PROJECTS/refs/heads/main/netflix_titles.csv)  
-📂 **Power BI File:** [Netflix Dashboard (PBIX)](your-pbix-link-here)  
+📂 **Power BI File:** NETFLIX.pbix 
 
 ## 🔑 Key Questions Addressed  
 ✅ **Which are the top ten countries in terms of user subscriptions?**  
