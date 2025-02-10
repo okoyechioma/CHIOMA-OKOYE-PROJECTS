@@ -8,6 +8,9 @@ The process involved **data extraction, cleaning, and visualization** to analyze
 ## 🎯 Project Objective  
 To provide a detailed analysis of **subscriber behaviors** based on **movie genres** over a decade.
 
+![SAMPLE DASHBOARD](https://github.com/user-attachments/assets/88c73f3e-017f-4403-be12-c78c4ef05ddd)
+
+
 ## 📊 Data Used  
 📂 **Dataset:** [Netflix Data (CSV)](https://raw.githubusercontent.com/okoyechioma/CHIOMA-OKOYE-PROJECTS/refs/heads/main/netflix_titles.csv)  
 📂 **Power BI File:** https://drive.google.com/file/d/1HNazqmtvmSVWFG1xCQfkt_znutfqNXV7/view?usp=sharing
