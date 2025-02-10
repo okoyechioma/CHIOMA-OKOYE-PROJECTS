@@ -1,5 +1,5 @@
-# 🎬 Netflix Data Analysis
-# 🎬 Netflix Data Analysis
+# 🎬 Netflix Data Analysis using Sampla Data
+
 
 ## 📌 Project Description  
 I developed a comprehensive user categorization dashboard using **Microsoft Power BI**.  
